@@ -1,16 +1,18 @@
-## Hi there 👋
+# Welcome to My Portfolio
 
-<!--
-**lorrintjohnson/lorrintjohnson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi, I'm Lorrin Johnson!
+I'm currently an Operational Auditor at DTE, with the goal of transitioning into Cybersecurity GRC.
 
-Here are some ideas to get you started:
+This portfolio documents my journey, goals and accomplishments in cybersecurity, governance and IT. It includes:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- A showcase of selected projects
+- Certifications and learning milestones
+- Reflections and community engagement
+
+### Explore My Work
+- [Projects](https://github.com/lorrintjohnson/Projects)
+- [Badges and Certifications](https://github.com/lorrintjohnson/Badges-and-Certifications)
+- [Learning Journal](https://github.com/lorrintjohnson/Learning-Journal)
+
+### Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/lorrinjohnson1/)
