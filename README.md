@@ -14,5 +14,3 @@ This portfolio documents my journey, goals and accomplishments in cybersecurity,
 - [Badges and Certifications](https://github.com/lorrintjohnson/Badges-and-Certifications)
 - [Learning Journal](https://github.com/lorrintjohnson/Learning-Journal)
 
-### Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/lorrinjohnson1/)
