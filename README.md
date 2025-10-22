@@ -15,4 +15,3 @@ This portfolio documents my journey, goals and accomplishments in cybersecurity,
 - [Learning Journal](https://github.com/lorrintjohnson/Learning-Journal)
 
 ![Cybersecurity Demo](https://github.com/lorrintjohnson/lorrintjohnson/blob/f8131021c94e9ab60ad4a3c2017baefb01917dd0/cybersecurity_1.gif)
-?raw=true
