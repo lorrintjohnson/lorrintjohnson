@@ -1,5 +1,7 @@
 # Welcome to My Portfolio
 
+https://raw.githubusercontent.com/lorrintjohnson/lorrintjohnson/main/cybersecurity_1.gif
+
 ## Hi, I'm Lorrin Johnson!
 I'm currently an Operational Auditor at DTE, with the goal of transitioning into Cybersecurity GRC.
 
@@ -14,4 +16,4 @@ This portfolio documents my journey, goals and accomplishments in cybersecurity,
 - [Badges and Certifications](https://github.com/lorrintjohnson/Badges-and-Certifications)
 - [Learning Journal](https://github.com/lorrintjohnson/Learning-Journal)
 
-![Alt text](https://raw.githubusercontent.com/lorrintjohnsonson/main/cybersecurity_1.gif)
+https://raw.githubusercontent.com/lorrintjohnson/lorrintjohnson/main/cybersecurity_1.gif
